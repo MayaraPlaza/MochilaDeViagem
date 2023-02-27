@@ -1,2 +1,1 @@
-# MochilaDeViagem
-Armazenando dados na web
+# alura-armazenando-na-web
